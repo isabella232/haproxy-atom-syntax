@@ -1,15 +1,12 @@
 {
   "name": "haproxy-atom-syntax",
-  "main": "./lib/haproxy-atom-syntax",
   "version": "1.0.0",
   "description": "HAProxy and HAProxy Enterprise syntax highlighting",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/haproxytech/haproxy-atom-syntax",
   "license": "Apache 2.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
